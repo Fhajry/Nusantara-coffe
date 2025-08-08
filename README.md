@@ -25,16 +25,8 @@
 ## 🛠️ Teknologi yang Digunakan
 
 - HTML5
-- CSS3 (atau Tailwind CSS / Bootstrap, jika digunakan)
-- JavaScript (Vanilla JS atau framework seperti React jika digunakan)
-- [Opsional] Framework: Next.js / Vite / Vue
+- CSS3 
+- JavaScript 
 
 ---
 
-## 📦 Cara Menjalankan Proyek
-
-### 1. Clone repositori
-
-```bash
-git clone https://github.com/username/nusantara-coffee.git
-cd nusantara-coffee
