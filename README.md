@@ -1,43 +1,40 @@
-# ☕ Nusantara Coffee
+# ☕ Nusantara Coffee - Landing Page Website
 
-Selamat datang di **Nusantara Coffee** – sebuah proyek yang mengangkat keunikan kopi-kopi nusantara ke dalam platform digital. Kami percaya bahwa setiap biji kopi dari Indonesia memiliki cerita yang layak untuk dibagikan ke seluruh dunia.
-
----
-
-## 📌 Tentang Proyek
-
-**Nusantara Coffee** adalah aplikasi (web/mobile) yang bertujuan untuk:
-- Menyediakan informasi lengkap tentang jenis-jenis kopi lokal Indonesia.
-- Menghubungkan petani kopi langsung dengan konsumen.
-- Menyediakan sistem pemesanan dan penilaian rasa dari komunitas pecinta kopi.
+**Nusantara Coffee** adalah sebuah landing page modern dan responsif yang dirancang untuk memperkenalkan cita rasa dan keunikan kopi-kopi terbaik dari Nusantara kepada dunia. Website ini bertujuan untuk menarik perhatian pengunjung dan mendorong mereka untuk mengenal lebih dalam tentang kopi Indonesia.
 
 ---
 
-## 🚀 Fitur Utama
+## 🌐 Demo
 
-- 🗺️ **Peta Kopi Nusantara** – Jelajahi kopi dari Sabang sampai Merauke.
-- 🧑‍🌾 **Profil Petani** – Kenali para petani dan kisah di balik kopi mereka.
-- 💬 **Ulasan & Rating** – Baca dan beri ulasan terhadap kopi yang telah dicoba.
-- 🛒 **Marketplace** – Beli kopi langsung dari sumbernya.
+🔗 [Lihat Demo Langsung](https://your-deployment-link.com)
+
+---
+
+## 📌 Fitur Utama
+
+- 🎨 Desain modern, minimalis, dan responsif
+- 📱 Mobile-friendly (dibuat dengan prinsip mobile-first design)
+- 🖼️ Hero section dengan gambar latar full-width
+- 🧾 Seksi tentang kopi Nusantara
+- 🛍️ Call-to-action untuk pemesanan atau eksplorasi produk
+- 📩 Formulir kontak
+- 🌙 Mode gelap (opsional)
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
 
-- Frontend: `React.js / Flutter`
-- Backend: `Node.js / Express.js`
-- Database: `MongoDB / Firebase`
-- API: `RESTful API / GraphQL`
-- Deployment: `Vercel / Netlify / Heroku`
+- HTML5
+- CSS3 (atau Tailwind CSS / Bootstrap, jika digunakan)
+- JavaScript (Vanilla JS atau framework seperti React jika digunakan)
+- [Opsional] Framework: Next.js / Vite / Vue
 
 ---
 
-## 📦 Instalasi
+## 📦 Cara Menjalankan Proyek
 
-Clone repositori ini dan jalankan:
+### 1. Clone repositori
 
 ```bash
 git clone https://github.com/username/nusantara-coffee.git
 cd nusantara-coffee
-npm install
-npm start
