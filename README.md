@@ -6,7 +6,7 @@
 
 ## 🌐 Demo
 
-🔗 [Lihat Demo Langsung](https://your-deployment-link.com)
+🔗 [Lihat Demo Langsung](https://nusantara-coffe.vercel.app/)
 
 ---
 
